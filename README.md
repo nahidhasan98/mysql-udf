@@ -8,3 +8,4 @@
 
 #### c
 - raptor_udf (https://github.com/0xdea/exploits/blob/master/mysql/raptor_udf.c)
+- mysql_udf (https://github.com/mysqludf/lib_mysqludf_sys)

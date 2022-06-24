@@ -4,6 +4,6 @@
  * 25 Jun, 2022
  */
  
-DROP FUNCTION IF EXISTS nahid_udf;
+DROP FUNCTION IF EXISTS run_cmd;
 
-CREATE FUNCTION nahid_udf RETURNS string SONAME 'nahid_udf.so';
+CREATE FUNCTION run_cmd RETURNS string SONAME 'nahid_udf.so';
